@@ -44,12 +44,6 @@ p {
   width: 100%;
   margin: 1rem auto;
 }
-.description {
-  position: relative;
-  right: -90%;
-  transform-origin: 0 0;
-  transform: rotate(269deg);
-}
 .bottom {
   display: flex;
   justify-content: space-evenly;
